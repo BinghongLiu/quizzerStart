@@ -1,6 +1,9 @@
 import React, { useState } from "react";
 import "./App.css";
 import { Quizzer } from "./quizzer/Quizzer";
+//import { Quiz } from "./interfaces/quiz"
+//import { Question } from "./interfaces/question"
+//import quizzes from "./data/quizzes.json"
 import { Button } from "react-bootstrap";
 //import { ShowHideTasks } from "./tasks/ShowHideTasks";
 
