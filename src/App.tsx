@@ -5,7 +5,7 @@ import { Quiz } from "./interfaces/quiz"
 import { Question } from "./interfaces/question"
 import quizzes from "./data/quizzes.json"
 import { Button } from "react-bootstrap";
-import { ShowHideTasks } from "./tasks/ShowHideTasks";
+//import { ShowHideTasks } from "./tasks/ShowHideTasks";
 
 function App(): JSX.Element {
     const [quizzer, setQuizzer] = useState<boolean>(true);
